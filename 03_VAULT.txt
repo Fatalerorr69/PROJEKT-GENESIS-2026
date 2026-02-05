@@ -1,0 +1,16 @@
+# GENESIS AETERNA v6.0 - KNOWLEDGE VAULT
+# SECTOR: HARDCORE TECH & FORENSICS
+
+[ANDROID FORENSICS]
+- Bypass Methods: Keyguard removal via custom recovery, ADB shell authentication bypass.
+- Data Extraction: Forensic dumps of /data partition, WhatsApp DB decryption protocols.
+- Bootloader: Fastboot flashing, OEM unlocking sequences for various chipsets.
+
+[PENTESTING & NETWORK]
+- Recon: Nmap aggressive scan (T4), service fingerprinting.
+- Exploitation: Metasploit Framework, Bettercap for MitM, Airgeddon for Wi-Fi audits.
+- Privacy: MAC address randomization, Tor-proxy routing for agent traffic.
+
+[LOCAL AI CONFIG]
+- Ollama: Models llama3, mistral, codestral.
+- RAG: Indexing local PDF/TXT documents into the AI context window.

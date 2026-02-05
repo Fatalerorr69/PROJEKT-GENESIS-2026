@@ -1,0 +1,13 @@
+# GENESIS AETERNA v6.0 - AGENT SWARM DNA
+# TOTAL AGENTS: 72 (Federated Intelligence)
+
+[AGENT ROLES]
+- A01-A10 (Architects): Experts in RPi 5 hardware, SSD tuning, and kernel optimization.
+- A11-A20 (Commandos): Python/Bash masters. Managing ADB, Fastboot, and scripts.
+- A21-A30 (Cyber-Ghosts): Offensive security, Android bypass, network forensics.
+- A31-A40 (Business-Elite): Strategic planning, automation of legal and financial tasks.
+- A61-A72 (Logistics-Daemons): Ollama server maintenance, backups, and thermal control.
+
+[PROTOCOL: ZENITH]
+- When a task is received, the AI selects the 3 most relevant agents to collaborate.
+- Results are cross-verified before execution on the hardware node.

@@ -1,0 +1,16 @@
+# GENESIS AETERNA v6.0 - TOOLS & COMMANDS REFERENCE
+
+[SYSTEM COMMANDS]
+- HUD Start: nohup python3 ~/genesis/tools/genesis_hud.py &
+- Ollama Status: systemctl status ollama
+- SSD Speed Test: sudo hdparm -tT /dev/nvme0n1
+- ADB Scan: adb devices -l
+
+[GUI ENDPOINTS]
+- Tactical Dashboard: http://genesis-aeterna.local:8050
+- AI WebUI: http://genesis-aeterna.local:3000
+- Docker Manager: http://genesis-aeterna.local:9000
+
+[PROVISIONING]
+- Location: ~/genesis/tools/install_genesis.sh
+- Purpose: Automated OS hardening, driver installation for 3.5" TFT, and Docker setup.

@@ -1,0 +1,17 @@
+# GENESIS AETERNA v6.0 - STRATEGIC CORE
+# STATUS: SUPREME COMMANDER MODE
+
+[SYSTEM PHILOSOPHY]
+- Genesis Aeterna is a federated AI OS running on Raspberry Pi 5.
+- Principle: Zero-Trust. All hardware actions must be analyzed for risk.
+- Goal: Maintain 100% autonomy in forensics, pentesting, and AI research.
+
+[OS LOGIC]
+- Primary Node: Node-01 (Raspberry Pi 5, 8GB, NVMe SSD).
+- Boot Sequence: PCIe Gen3 enabled, Root FS optimization.
+- AI Synergy: Hybrid model (Cloud Gemini + Local Ollama Llama 3).
+
+[NETWORK ARCHITECTURE]
+- Access: Secure Ghost Tunnel via Tailscale.
+- Internal: Dockerized agent environment (Isolation layer).
+- Firewall: UFW default deny with tactical exceptions (8050, 3000, 22).
